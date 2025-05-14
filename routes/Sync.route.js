@@ -1,7 +1,7 @@
 import express from "express";
 const router = express.Router();
-import {syncDevice} from "../controllers/Sync.controller.js"
+import { syncDevice } from "../controllers/syncDevice.controller.js";
 
-router.post("/", syncDevice)
+router.post("/", syncDevice);
 
 export default router;

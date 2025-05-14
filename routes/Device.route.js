@@ -1,7 +1,9 @@
-import express from "express"
-const router = express.Router()
-import { Device } from "../controllers/Device.controller.js"
+import express from "express";
+import { Device } from "../controllers/Device.controller.js";
 
-router.get("/", Device)
+const router = express.Router();
+
+router.get("/", Device);
+
 
 export default router;
