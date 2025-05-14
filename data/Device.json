@@ -1,0 +1,83 @@
+[
+  {
+    "id": "PiBox-001",
+    "lastSync": "2025-05-14T02:59:45.056Z",
+    "status": "Pending"
+  },
+  {
+    "id": "PiBox-002",
+    "lastSync": "2025-05-14T02:42:02.487Z",
+    "status": "Success"
+  },
+  {
+    "id": "PiBox-003",
+    "lastSync": "2025-05-14T02:59:53.604Z",
+    "status": "Success"
+  },
+  {
+    "id": "PiBox-004",
+    "lastSync": "2025-05-14T02:41:54.590Z",
+    "status": "Success"
+  },
+  {
+    "id": "PiBox-005",
+    "lastSync": "2025-05-14T03:00:07.913Z",
+    "status": "Failed",
+    "error": "Sync failed due to network timeout"
+  },
+  {
+    "id": "PiBox-006",
+    "lastSync": "2025-05-14T02:42:10.167Z",
+    "status": "Pending"
+  },
+  {
+    "id": "PiBox-007",
+    "lastSync": "2025-05-14T02:42:21.541Z",
+    "status": "Failed",
+    "error": "Sync failed due to network timeout"
+  },
+  {
+    "id": "PiBox-008",
+    "lastSync": "2025-05-14T03:09:04.727Z",
+    "status": "Failed",
+    "error": "Sync failed due to network timeout"
+  },
+  {
+    "id": "PiBox-009",
+    "lastSync": "2025-05-13T09:50:00Z",
+    "status": "Failed",
+    "error": "Sync failed due to network timeout"
+  },
+  {
+    "id": "PiBox-010",
+    "lastSync": "2025-05-14T03:09:11.757Z",
+    "status": "Pending"
+  },
+  {
+    "id": "PiBox-011",
+    "lastSync": "2025-05-14T03:09:48.554Z",
+    "status": "Failed",
+    "error": "Sync failed due to network timeout"
+  },
+  {
+    "id": "PiBox-012",
+    "lastSync": "2025-05-14T03:08:43.469Z",
+    "status": "Success"
+  },
+  {
+    "id": "PiBox-013",
+    "lastSync": "2025-05-14T03:08:55.516Z",
+    "status": "Pending"
+  },
+  {
+    "id": "PiBox-014",
+    "lastSync": "2025-05-14T02:42:56.312Z",
+    "status": "Failed",
+    "error": "Sync failed due to network timeout"
+  },
+  {
+    "id": "PiBox-015",
+    "lastSync": "2025-05-14T03:08:01.772Z",
+    "status": "Success"
+  }
+]
